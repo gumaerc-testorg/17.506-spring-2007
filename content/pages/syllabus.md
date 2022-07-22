@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, requirements, grading, and the schedule of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: eb54c47a-2d4f-3720-9a61-3e0716682135
 ---
@@ -35,7 +39,7 @@ Readings have been drawn from across disciplines, including political science, a
 Course Requirements and Grading
 -------------------------------
 
-There will be a variety of short assignments. The major requirement is a 20-30 page research paper. Please see [assignments]({{< baseurl >}}/pages/assignments) for more detailed information on this paper.
+There will be a variety of short assignments. The major requirement is a 20-30 page research paper. Please see {{% resource_link 1e8a2a6e-567e-ff1a-4b4e-c005f5790c09 "assignments" %}} for more detailed information on this paper.
 
 {{< tableopen >}}
 {{< theadopen >}}

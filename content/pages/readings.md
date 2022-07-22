@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e908ef64-af28-5fa9-bcbf-f153216b1311
 ---
@@ -57,7 +61,7 @@ Weber, Max. "Ethnic Groups." In _Theories of Ethnicity: A Classical Reader_. Edi
 
 Barth, Fredrik. _Ethnic Groups and Boundaries: The Social Organization of Culture Difference_. Long Grove, IL: Waveland Press, 1998 \[1969\], pp. 5-38. ISBN: 9780881339796.
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for the short assignment for this session.
+Please see {{% resource_link 1e8a2a6e-567e-ff1a-4b4e-c005f5790c09 "assignments" %}} for the short assignment for this session.
 
 
 {{< tdclose >}}
