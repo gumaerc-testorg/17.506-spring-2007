@@ -32,7 +32,7 @@
     "website": "17-506-ethnic-politics-ii-spring-2007"
   },
   "course_title": "Ethnic Politics II",
-  "course_description": "This course is designed mainly for political science graduate students conducting or considering conducting research on identity politics. While [17.504 Ethnic Politics I](courses/17-504-ethnic-politics-i-fall-2003) is designed as a primarily theoretical course, Ethnic Politics II switches the focus to methods. It aims to familiarize the student with the current conventional approaches as well as major challenges to them. The course discusses definition and measurement issues as well as briefly addressing survey techniques and modeling.\n",
+  "course_description": "This course is designed mainly for political science graduate students conducting or considering conducting research on identity politics. While [17.504 Ethnic Politics I](https://ocw.mit.edu/courses/17-504-ethnic-politics-i-fall-2003/) is designed as a primarily theoretical course, Ethnic Politics II switches the focus to methods. It aims to familiarize the student with the current conventional approaches as well as major challenges to them. The course discusses definition and measurement issues as well as briefly addressing survey techniques and modeling.",
   "department_numbers": [
     "17"
   ],
@@ -45,6 +45,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "dbcc8fc1-4312-4e1b-a365-ef3925f8d4e0",
+  "site_uid": "88a50499-ee3f-4447-a379-cf288ad0e205",
+  "site_short_id": "17.506-spring-2007",
   "title": "Course Metadata"
 }
