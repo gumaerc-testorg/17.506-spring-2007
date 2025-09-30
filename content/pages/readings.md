@@ -231,9 +231,9 @@ Identity simulation using PS-I
 {{< tdopen >}}
 
 
-Lustick, Ian. "Agent-Based Identity Repertoire Model." Identity modeling program. Downloaded from Lustick's University of Pennsylvania [biography page](http://www.polisci.upenn.edu/index.php?option=com_content&task=view&id=25&Itemid=73).
+Lustick, Ian. "Agent-Based Identity Repertoire Model." Identity modeling program. Downloaded from Lustick's University of Pennsylvania {{% resource_link "a4acc276-d99d-463c-9652-9a158fdbfabc" "biography page" %}}.
 
-Students should familiarize themselves with the model and bring in ideas and examples for practical application of the model. Students should also read a short summary of the model: Rothfeder, Jeffrey. "[Terror Games](http://www.popsci.com/gear-gadgets/article/2004-02/terror-games)." _Popular Science_ 264, no. 3 (March 2004).
+Students should familiarize themselves with the model and bring in ideas and examples for practical application of the model. Students should also read a short summary of the model: Rothfeder, Jeffrey. "{{% resource_link "4398e9e4-0bf8-420f-a0bf-41b9ec3df11b" "Terror Games" %}}." _Popular Science_ 264, no. 3 (March 2004).
 
 
 {{< tdclose >}}
